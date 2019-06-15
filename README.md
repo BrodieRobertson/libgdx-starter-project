@@ -15,7 +15,7 @@ Any classes that I have decided to implement are included because I use them per
 
 + Can you add x feature that I need for my game?
 
-Short answer no, long answer is it specific to your game or is it a general feature that is used by many if not all games. If it's not then I'm more than willing to consider it, if it is then no, then I direct you back to my short answer.
+Short answer no, long answer, is it specific to your game or is it a general feature that is used by many if not all games. If it's not specific to your game then I'm more than willing to consider it, if it is then I direct you back to my short answer.
 
 + Why implement a new Screen hierarchy when you could just use Scene2D?
 
